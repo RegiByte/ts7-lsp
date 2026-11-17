@@ -1,5 +1,11 @@
 {
   "name": "ts7-lsp",
   "version": "0.1.0",
-  "description": "TypeScript 7's native language server (tsc --lsp) from the workspace's own typescript, with file diagnostics pushed to Claude Code"
+  "description": "TypeScript 7's native language server (tsc --lsp) from the workspace's own typescript, with file diagnostics pushed to Claude Code",
+  "author": {
+    "name": "RegiByte",
+    "url": "https://github.com/RegiByte"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/RegiByte/ts7-lsp"
 }
